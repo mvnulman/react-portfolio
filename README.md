@@ -1,5 +1,3 @@
-# Tokyo React Personal Portfolio Template
-
 ## Description
 Setup Procedure
 ## Project setup
