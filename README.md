@@ -1,26 +1,6 @@
-# Tokyo React Personal Portfolio Template
+## Personal Portfolio developed with ReactJS
+![portfolio-screenshot](https://user-images.githubusercontent.com/63374582/135537070-1cd5bfe3-9a90-436e-bee5-93d581e3afa8.png)
 
-## Description
-Setup Procedure
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run start
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration (vue-cli)
-See [Configuration Reference](https://cli.vuejs.org/config/).
