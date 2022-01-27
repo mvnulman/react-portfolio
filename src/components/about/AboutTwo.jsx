@@ -35,7 +35,7 @@ const AboutTwo = () => {
                   data-aos-duration="1200"
                 >
                   <span>About Me</span>
-                  <h3>Full-Stack Developer</h3>
+                  <h3>Front End Developer</h3>
                 </div>
                 <div
                   className="text"
@@ -43,7 +43,7 @@ const AboutTwo = () => {
                   data-aos-duration="1200"
                 >
                   <p>
-                   I'm Full Stack Developer with a Graphic Design and Marketing background. I am seeking web development and software engineering positions which will allow me   to grow as a professional and contribute my problem solving, teamwork and critical thinking skills.
+                    I'm Front End Developer with a Graphic Design and Marketing background. I am seeking web development and software engineering positions which will allow me   to grow as a professional and contribute my problem solving, teamwork and critical thinking skills.
                     Experienced also with commercial / marketing field, with  5+ years dealing with daily basis and obligations of these areas.
                     I'm skilled and have knowledge in the Graphic Design field, with software such as Adobe Photoshop, Adobe Illustrator, Adobe XD.
 
@@ -59,7 +59,7 @@ const AboutTwo = () => {
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  <a href="https://docs.google.com/document/d/14qDSMVlCiljmt2JH_58V8xNCKdXXSgF5/edit?usp=sharing&ouid=115508592238057154403&rtpof=true&sd=true" download>
+                  <a href="https://docs.google.com/document/d/12Hh9Q1j1-XJuwwMAR1nP8X3Iks2luJyrIhjC3ATNXYs/edit?usp=sharing" download>
                     Download CV
                   </a>
                 </div>

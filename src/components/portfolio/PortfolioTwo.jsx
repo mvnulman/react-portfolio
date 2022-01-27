@@ -23,13 +23,13 @@ const PortfolioTwo = () => {
                   data-aos-duration="1200">
                     <div className="inner">
                       <div className="entry shane_tm_portfolio_animation_wrap">
-                        <a href="https://github.com/mvnulman/just-ask">
-                          <img src="/img/portfolio/just-ask-img.png" alt="Web Development" />
+                        <a href="https://github.com/mvnulman/giphy-app">
+                          <img src="/img/portfolio/giphy-img.png" alt="Web Development" />
                         </a>
                       </div>
                       <div className="mobile_title">
-                        <h3>Just Ask App</h3>
-                        <span>React/Firebase/TypeScript</span>
+                        <h3>Giphy App</h3>
+                        <span>React/REST API</span>
                       </div>
                     </div>
                   </li>
