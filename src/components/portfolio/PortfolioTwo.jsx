@@ -43,6 +43,25 @@ const PortfolioTwo = () => {
                     <div className="inner">
                       <div className="entry shane_tm_portfolio_animation_wrap">
                         <a href="https://github.com/mvnulman/nlw3-happy-project">
+                          <img src="/img/portfolio/geekchat-img.png" alt="Web Development" />
+                        </a>
+                      </div>
+                      <div className="mobile_title">
+                        <h3>Geek Chat</h3>
+                        <span>ReactJS/NextJS/Supabase</span>
+                      </div>
+                    </div>
+                  </li>
+                  {/* End single image block */}
+
+                  <li
+                    data-aos="fade-right"
+                    data-aos-duration="1200"
+                    data-aos-delay="100"
+                  >
+                    <div className="inner">
+                      <div className="entry shane_tm_portfolio_animation_wrap">
+                        <a href="https://github.com/mvnulman/nlw3-happy-project">
                           <img src="/img/portfolio/happy-img.png" alt="Web Development" />
                         </a>
                       </div>
