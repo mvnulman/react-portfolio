@@ -18,9 +18,7 @@ const CallToActionTwo = () => {
       <div
         className="shane_tm_talk bg_image_props"
         style={{
-          backgroundImage: `url(${
-            process.env.PUBLIC_URL + "img/svg/contact-illustration.svg"
-          })`,
+          backgroundImage: `url(${"/img/svg/contact-illustration.svg"})`,
         }}
       >
         {/* <div className="shape">
@@ -67,20 +65,21 @@ const CallToActionTwo = () => {
           </button>
           {/* End close icon */}
           <div className="box_inner">
-              <a href="https://github.com/mvnulman">
-              <i class="fab fa-github"></i></a>
-              <a href="https://www.linkedin.com/in/mvnulman/">
-              <i class="fab fa-linkedin"></i></a>
-              <a href="mailto:mvsouza7@gmail.com">
-              <i class="fas fa-envelope"></i></a>
-
+            <a href="https://github.com/mvnulman">
+              <i class="fab fa-github"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/mvnulman/">
+              <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="mailto:mvsouza7@gmail.com">
+              <i class="fas fa-envelope"></i>
+            </a>
 
             <div className="description_wrap scrollable">
               {/* Start modal content */}
-              <div className="title">
-              </div>
+              <div className="title"></div>
 
-{/*           <div className="wrapper">
+              {/*           <div className="wrapper">
                 <div className="left">
                   <div className="fields">
                     <Contact />

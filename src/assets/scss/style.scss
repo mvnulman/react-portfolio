@@ -1,9 +1,6 @@
-
 // Style Scss
-@import 'main/typography';
-@import 'main/color';
-@import 'main/modal';
-@import 'main/style';
-@import 'node_modules/react-modal-video/scss/modal-video.scss';
-
-
+@use "main/typography";
+@use "main/color";
+@use "main/modal";
+@use "main/style";
+// @import 'node_modules/react-modal-video/scss/modal-video.scss';
