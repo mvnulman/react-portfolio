@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Routes from "./router/Routes";
+import AppRoutes from "./router/Routes.jsx";
 import ScrollToTop from "./components/ScrollToTop";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div className="shane_tm_all_wrap">
       <ScrollToTop />
-      <Routes />
+      <AppRoutes />
     </div>
   );
 };
